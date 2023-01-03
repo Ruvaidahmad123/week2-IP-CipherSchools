@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FitNess club - Home</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome Iocns cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo">
+        <i class="fas fa-dumbbell"></i>FitNess
+        </a>
+        <nav class="navbar">
+            <a href="#">ABOUT</a>         
+            <a href="#">TRAINING</a>           
+            <a href="#">TIME TABLE</a>
+            <a href="#">NUTRITION</a>
+            <a href="#">GALLERY</a><br><br>            
+            <a href="#" class="btn">Login</a>                        
+            <a href="#" class="btn">SignUp</a>
+        </nav>
+    </header>
+
+    <section class="home">
+        <div class="max-width">
+            <div class="home-content">
+                <h3>no pain no gain</h3>
+                <p>FITNESS CLUB,is an American chain of international co-ed fitness centers originally started by joe gold in venic beach ,california.We offers a variety of cardio and strength training equipment as well as group exercise programs.Contact us for more information ph:=+919876543210</p>
+                <button class="btn">register now</button>
+            </div>
+            <div class="home-image">
+                <img src="Gary-Gym-Article-Desktop (1).webp" alt="gym"
+            </div>
+            <br><br>
+            <div>
+          <h1 style="text-align:center; color:aliceblue">
+            LATEST EVENTS
+          </h1>
+         
+        </div>
+        </div>
+        
+    
+    
+
+
+
+
+</body>
+</html>
